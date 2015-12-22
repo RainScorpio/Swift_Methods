@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E40BBD3556971AB03E0091CC026FD99AF665538B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E40BBD3556971AB03E0091CC026FD99AF665538B" : 0,
+    "06872134CF8109761A1FB225032D5192B0AEFFB2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6A403D61-DA67-42B8-B02F-D20F157B2FCC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E40BBD3556971AB03E0091CC026FD99AF665538B" : "Swift_Methods\/",
+    "06872134CF8109761A1FB225032D5192B0AEFFB2" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "dfsh",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift11_Methods\/dfsh.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/HeXin_\/WangYi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06872134CF8109761A1FB225032D5192B0AEFFB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yuancaoscott\/Swift_Methods.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E40BBD3556971AB03E0091CC026FD99AF665538B"
+    }
+  ]
+}
