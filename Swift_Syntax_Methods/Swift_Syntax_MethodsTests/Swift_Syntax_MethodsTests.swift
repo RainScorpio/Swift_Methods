@@ -1,15 +1,15 @@
 //
-//  dfshTests.swift
-//  dfshTests
+//  Swift_Syntax_MethodsTests.swift
+//  Swift_Syntax_MethodsTests
 //
-//  Created by Rain on 15/12/22.
+//  Created by Rain on 15/12/23.
 //  Copyright © 2015年 Rain. All rights reserved.
 //
 
 import XCTest
-@testable import dfsh
+@testable import Swift_Syntax_Methods
 
-class dfshTests: XCTestCase {
+class Swift_Syntax_MethodsTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

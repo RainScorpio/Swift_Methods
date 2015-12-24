@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B751A0561C28F54F002BECD3"
-               BuildableName = "dfsh.app"
-               BlueprintName = "dfsh"
-               ReferencedContainer = "container:dfsh.xcodeproj">
+               BlueprintIdentifier = "B751A11D1C2A9F6E002BECD3"
+               BuildableName = "Swift_Syntax_Methods.app"
+               BlueprintName = "Swift_Syntax_Methods"
+               ReferencedContainer = "container:Swift_Syntax_Methods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B751A06A1C28F54F002BECD3"
-               BuildableName = "dfshTests.xctest"
-               BlueprintName = "dfshTests"
-               ReferencedContainer = "container:dfsh.xcodeproj">
+               BlueprintIdentifier = "B751A1311C2A9F6E002BECD3"
+               BuildableName = "Swift_Syntax_MethodsTests.xctest"
+               BlueprintName = "Swift_Syntax_MethodsTests"
+               ReferencedContainer = "container:Swift_Syntax_Methods.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B751A0751C28F550002BECD3"
-               BuildableName = "dfshUITests.xctest"
-               BlueprintName = "dfshUITests"
-               ReferencedContainer = "container:dfsh.xcodeproj">
+               BlueprintIdentifier = "B751A13C1C2A9F6E002BECD3"
+               BuildableName = "Swift_Syntax_MethodsUITests.xctest"
+               BlueprintName = "Swift_Syntax_MethodsUITests"
+               ReferencedContainer = "container:Swift_Syntax_Methods.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B751A0561C28F54F002BECD3"
-            BuildableName = "dfsh.app"
-            BlueprintName = "dfsh"
-            ReferencedContainer = "container:dfsh.xcodeproj">
+            BlueprintIdentifier = "B751A11D1C2A9F6E002BECD3"
+            BuildableName = "Swift_Syntax_Methods.app"
+            BlueprintName = "Swift_Syntax_Methods"
+            ReferencedContainer = "container:Swift_Syntax_Methods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B751A0561C28F54F002BECD3"
-            BuildableName = "dfsh.app"
-            BlueprintName = "dfsh"
-            ReferencedContainer = "container:dfsh.xcodeproj">
+            BlueprintIdentifier = "B751A11D1C2A9F6E002BECD3"
+            BuildableName = "Swift_Syntax_Methods.app"
+            BlueprintName = "Swift_Syntax_Methods"
+            ReferencedContainer = "container:Swift_Syntax_Methods.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B751A0561C28F54F002BECD3"
-            BuildableName = "dfsh.app"
-            BlueprintName = "dfsh"
-            ReferencedContainer = "container:dfsh.xcodeproj">
+            BlueprintIdentifier = "B751A11D1C2A9F6E002BECD3"
+            BuildableName = "Swift_Syntax_Methods.app"
+            BlueprintName = "Swift_Syntax_Methods"
+            ReferencedContainer = "container:Swift_Syntax_Methods.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
